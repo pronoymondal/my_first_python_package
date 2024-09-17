@@ -10,7 +10,7 @@ setup(
     author='Pronoy Kanti Mondal',
     author_email='pronoykanti@mail.ru',
 
-    py_modules=['my_first_python_package'],
+    py_modules=['my_pip_package','my_functions'],
 )
 
 
